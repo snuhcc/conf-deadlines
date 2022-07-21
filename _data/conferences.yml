@@ -1,29 +1,5 @@
 ---
 
-- title: ISSRE
-  hindex: 112
-  year: 2022
-  id: issre22
-  link: https://issre2022.github.io/calls_cfp-research.html
-  deadline: '2022-05-20 23:59:59'
-  timezone: UTC-12
-  date: October 24-27, 2022
-  place: Charlotte, North Carolina, US
-  sub: SE
-
-- title: NeurIPS
-  hindex: 198
-  year: 2022
-  id: neurips22
-  link: https://neurips.cc/Conferences/2021/
-  deadline: '2022-05-26 13:00:00'
-  abstract_deadline: '2022-05-19 13:00:00'
-  timezone: America/Los_Angeles
-  date: December 5-14, 2022
-  place: Online
-  sub: ML
-  note: '<b>NOTE</b>: Estimated abstract deadline on May 19, 2022'
-
 - title: ICSE
   hindex: 46
   year: 2023
@@ -49,6 +25,18 @@
   sub: ML
   note: '<b>NOTE</b>: Estimated abstract deadline on September 29, 2022. More info
     <a href=''https://iclr.cc/Conferences/2023/CallForPapers''>here</a>.'
+
+- title: WWW
+  hindex: 70
+  year: 2023
+  id: www23
+  link: https://www2023.thewebconf.org/research-track.html
+  deadline: '2022-10-13 23:59:59'
+  timezone: UTC-12
+  date: May 1-5, 2023
+  place: Austin, Texas, USA
+  sub: DM
+  note: '<b>NOTE</b>: Mandatory abstract deadline on October 6, 2022'
 
 - title: ASPLOS
   hindex: 112
@@ -180,18 +168,6 @@
   date: Jan 16-21, 2022
   place: Philadelphia, US
   sub: PL
-
-- title: WWW
-  hindex: 70
-  year: 2022
-  id: www22
-  link: https://www2022.thewebconf.org/important-dates-for-authors/
-  deadline: '2021-10-21 23:59:59'
-  timezone: UTC-12
-  date: April 25-29, 2022
-  place: Lyon, France
-  sub: DM
-  note: '<b>NOTE</b>: Mandatory abstract deadline on October 14, 2021'
 
 - title: ACL
   hindex: 47
@@ -334,3 +310,27 @@
   place: Ann Arbor, Michigan, United States
   sub: SE
   note: '<b>NOTE</b>: Mandatory abstract deadline on April 29, 2022 (AoE)'
+
+- title: ISSRE
+  hindex: 112
+  year: 2022
+  id: issre22
+  link: https://issre2022.github.io/calls_cfp-research.html
+  deadline: '2022-05-20 23:59:59'
+  timezone: UTC-12
+  date: October 24-27, 2022
+  place: Charlotte, North Carolina, US
+  sub: SE
+
+- title: NeurIPS
+  hindex: 198
+  year: 2022
+  id: neurips22
+  link: https://neurips.cc/Conferences/2021/
+  deadline: '2022-05-26 13:00:00'
+  abstract_deadline: '2022-05-19 13:00:00'
+  timezone: America/Los_Angeles
+  date: December 5-14, 2022
+  place: Online
+  sub: ML
+  note: '<b>NOTE</b>: Estimated abstract deadline on May 19, 2022'
