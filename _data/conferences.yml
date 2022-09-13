@@ -8,7 +8,7 @@
   timezone: UTC-12
   date: April 23-28, 2023
   place: Hamburg, Germany | Hybrid
-  sub: SE
+  sub: HCI
   note: "<b>NOTE</b>: reviews are released to authors (November 7, 2022)"
 
 - title: ICLR
@@ -26,16 +26,17 @@
     "<b>NOTE</b>: Estimated abstract deadline on September 29, 2022. More info
     <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>."
 
-- title: ICDM
-  hindex: 44
-  year: 2020
-  id: icdm20
-  link: http://icdm2020.bigke.org/
-  deadline: "2020-06-11 23:59:59"
-  timezone: UTC-7
-  date: November 17-20, 2020
-  place: Sorrento, Italy
-  sub: DM
+- title: CSCW
+  hindex:
+  year: 2023
+  id: cscw23
+  link: https://cscw.acm.org/2023/
+  deadline: "2023-01-15 23:59:59"
+  timezone: UTC-12
+  date: October 13-18, 2023
+  place: Minneapolis, MN USA
+  sub: HCI
+  note: "<b>NOTE</b>: Accepted papers are invited to present at CSCW 2023."
 
 - title: IEEE VIS
   hindex:
@@ -47,7 +48,7 @@
   timezone: PDT
   date: October 16-21, 2022
   place: Oklahoma City, USA
-  sub: DM
+  sub: VIZ
 
 - title: CIKM
   hindex: 48

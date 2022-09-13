@@ -1,6 +1,6 @@
 ---
-- name: Cloud and Systems
-  sub: OS
+- name: Information Visualization
+  sub: VIZ
 - name: Data Mining
   sub: DM
 - name: Software Engineering
@@ -9,5 +9,5 @@
   sub: ML
 - name: Natural Language Processing
   sub: NLP
-- name: Programming Languages
-  sub: PL
+- name: Human-Computer Interaction
+  sub: HCI
