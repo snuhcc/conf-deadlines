@@ -1,6 +1,4 @@
 ---
-- name: Information Visualization
-  sub: VIZ
 - name: Data Mining
   sub: DM
 - name: Software Engineering
