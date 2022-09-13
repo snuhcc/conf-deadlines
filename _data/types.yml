@@ -7,7 +7,7 @@
   sub: SE
 - name: Machine Learning
   sub: ML
-- name: Natural Language Proc
+- name: Natural Language Processing
   sub: NLP
 - name: Programming Languages
   sub: PL
