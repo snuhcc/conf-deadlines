@@ -16,11 +16,11 @@
   year: 2023
   id: iclr23
   link: https://iclr.cc/Conferences/2022/CallForPapers
-  deadline: "2022-10-06 23:59:59"
-  abstract_deadline: "2022-09-28 16:59:59"
-  timezone: UTC
-  date: Apr 25-29, 2023
-  place: Virtual
+  deadline: "2022-09-28 23:59:59"
+  abstract_deadline: "2022-09-21 23:59:59"
+  timezone: UTC-12
+  date: May 1-5, 2023
+  place: Kigali Convention Center- Rwanda Convention Bureau, Kigali, Rwanda, Africa
   sub: ML
   note:
     "<b>NOTE</b>: Estimated abstract deadline on September 29, 2022. More info
