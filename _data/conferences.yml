@@ -3,11 +3,11 @@
   hindex: 113
   year: 2023
   id: chi23
-  link:
+  link: https://chi2023.acm.org
   deadline: "2022-09-15 23:59:59"
   timezone: UTC-12
-  date: May 14-20, 2023
-  place: Melbourne, Australia
+  date: April 23-28, 2023
+  place: Hamburg, Germany | Hybrid
   sub: SE
   note: "<b>NOTE</b>: In detail the process will be the following:
     - authors submit papers (Paper Deadline: September 15, 2022)
@@ -49,9 +49,8 @@
   place: Sorrento, Italy
   sub: DM
 
-
 - title: IEEE VIS
-  hindex: 
+  hindex:
   year: 2022
   id: ieeevis22
   link: http://ieeevis.org/year/2022/welcome
@@ -61,7 +60,6 @@
   date: October 16-21, 2022
   place: Oklahoma City, USA
   sub: DM
-
 
 - title: CIKM
   hindex: 48
