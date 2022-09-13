@@ -38,18 +38,6 @@
     "<b>NOTE</b>: Estimated abstract deadline on September 29, 2022. More info
     <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>."
 
-- title: WWW
-  hindex: 70
-  year: 2023
-  id: www23
-  link: https://www2023.thewebconf.org/research-track.html
-  deadline: "2022-10-13 23:59:59"
-  timezone: UTC-12
-  date: May 1-5, 2023
-  place: Austin, Texas, USA
-  sub: DM
-  note: "<b>NOTE</b>: Mandatory abstract deadline on October 6, 2022"
-
 - title: ICDM
   hindex: 44
   year: 2020
@@ -60,6 +48,20 @@
   date: November 17-20, 2020
   place: Sorrento, Italy
   sub: DM
+
+
+- title: IEEE VIS
+  hindex: 
+  year: 2022
+  id: ieeevis22
+  link: http://ieeevis.org/year/2022/welcome
+  deadline: "2022-03-31 17:00:00"
+  abstract_deadline: "2022-03-21 17:00:00"
+  timezone: PDT
+  date: October 16-21, 2022
+  place: Oklahoma City, USA
+  sub: DM
+
 
 - title: CIKM
   hindex: 48
@@ -74,17 +76,6 @@
   sub: DM
   note: "<b>NOTE</b>: Mandatory abstract deadline on May 18, 2021.</a>."
 
-- title: ICDM
-  hindex: 112
-  year: 2021
-  id: icdm21
-  link: https://icdm2021.auckland.ac.nz/cfp/
-  deadline: "2021-06-11 23:59:00"
-  timezone: UTC-7
-  date: December 7-10, 2021
-  place: Auckland, New Zealand
-  sub: DM
-
 - title: ACL
   hindex: 47
   year: 2022
@@ -96,17 +87,6 @@
   place: Dublin, Ireland
   sub: NLP
   note: "<b>NOTE</b>: ACL22 adopts rolling review, read the CFP for details."
-
-- title: IEEE VIS
-  hindex:
-  year: 2022
-  id: ieeevis22
-  link: http://ieeevis.org/year/2022/welcome
-  deadline: "2022-03-21 17:00:00"
-  timezone: PDT
-  date: October 16-21, 2022
-  place: Oklahoma City, USA
-  sub: DM
 
 - title: ICML
   hindex: 135
