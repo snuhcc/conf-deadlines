@@ -1,11 +1,11 @@
 title: Conference Deadlines
 description: Countdowns to top SE/NLP/ML/PL conference deadlines
-author: yttty
+author: snuhcc
 
-domain: "yttty.github.io"
-baseurl: "https://yttty.github.io/conf-deadlines"
+domain: "snuhcc.github.io"
+baseurl: "https://snuhcc.github.io/conf-deadlines"
 
-github_username: yttty
+github_username: snuhcc
 github_repo: conf-deadlines
 
 markdown: kramdown
