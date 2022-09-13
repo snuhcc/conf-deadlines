@@ -9,19 +9,7 @@
   date: April 23-28, 2023
   place: Hamburg, Germany | Hybrid
   sub: SE
-  note: "<b>NOTE</b>: In detail the process will be the following:
-    - authors submit papers (Paper Deadline: September 15, 2022)
-    - papers get reviewed by externals and 2AC
-    - 1AC writes meta review
-    - reviews are released to authors (November 7, 2022)
-    - based on the reviews of 1AC, 2AC, and externals, papers will either be rejected or invited to revise and resubmit
-    - ‘Revise and resubmit’: at least one review ‘revise and resubmit’ (RR) or higher (54% of papers in CHI’22)
-    - ‘Reject’: all reviewers rated ‘reject’ (XX) or ‘reject/resubmit’ (RR/XX) (46% of papers in CHI’22)
-    - authors have 5 weeks to update the document source, they then submit a clear markup PDF and write the response letter (December 13, 2022)
-    - Winter holidays are a non-working period (December 16, 2022 – January 3, 2022)
-    - 1AC/2AC and externals review the changes/response
-    - PC meeting to decide on accept or reject (January 11-13, 2023)
-    - authors of accepted papers submit publication ready version (February 8, 2023)"
+  note: "<b>NOTE</b>: reviews are released to authors (November 7, 2022)"
 
 - title: ICLR
   hindex: 150
