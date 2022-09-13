@@ -73,17 +73,6 @@
   place: Auckland, New Zealand
   sub: DM
 
-- title: POPL
-  hindex: 135
-  year: 2022
-  id: popl22
-  link: https://popl22.sigplan.org/
-  deadline: "2021-07-08 23:59:59"
-  timezone: UTC-12
-  date: Jan 16-21, 2022
-  place: Philadelphia, US
-  sub: PL
-
 - title: ACL
   hindex: 47
   year: 2022
@@ -96,64 +85,16 @@
   sub: NLP
   note: "<b>NOTE</b>: ACL22 adopts rolling review, read the CFP for details."
 
-- title: DSN
-  hindex: 112
+- title: IEEE VIS
+  hindex:
   year: 2022
-  id: dsn22
-  link: https://dsn2022.github.io/index.html
-  deadline: "2021-12-10 14:59:00"
-  timezone: America/Los_Angeles
-  date: June 27-30, 2022
-  place: Baltimore, Maryland, USA
-  sub: OS
-  note: "<b>NOTE</b>: Mandatory abstract deadline on Dec 3, 2021"
-
-- title: OSDI
-  hindex: 112
-  year: 2022
-  id: osdi22
-  link: https://www.usenix.org/conference/osdi22
-  deadline: "2021-12-14 15:00:00"
-  timezone: America/Los_Angeles
-  date: July 11-13, 2022
-  place: Carlsbad, CA, USA
-  sub: OS
-  note: "<b>NOTE</b>: Mandatory registration deadline on Dec 7, 2021 (PT)"
-
-- title: USENIX ATC
-  hindex: 112
-  year: 2022
-  id: atc22
-  link: https://www.usenix.org/conference/atc22
-  deadline: "2022-01-13 23:59:59"
-  timezone: UTC
-  date: July 11-13, 2022
-  place: CARLSBAD, CA, USA
-  sub: OS
-
-- title: IJCAI
-  hindex: 67
-  year: 2022
-  id: ijcai22
-  link: https://ijcai-22.org/calls-papers/
-  deadline: "2022-01-14 23:59:59"
-  timezone: UTC+1
-  date: July 23-29, 2022
-  place: Vienna
-  sub: ML
-  note: "<b>NOTE</b>: Mandatory abstract deadline on January 7, 2022"
-
-- title: ICDCS
-  hindex: 46
-  year: 2022
-  id: icdcs22
-  link: https://icdcs2022.icdcs.org/
-  deadline: "2022-01-24 23:59:59"
-  timezone: UTC-5
-  date: July 10-13, 2022
-  place: Bologna, Italy
-  sub: OS
-  note: "<b>NOTE</b>: Abstract deadline on Jan 17, 2022 (EST)"
+  id: ieeevis22
+  link: http://ieeevis.org/year/2022/welcome
+  deadline: "2022-03-21 17:00:00"
+  timezone: PDT
+  date: October 16-21, 2022
+  place: Oklahoma City, USA
+  sub: DM
 
 - title: ICML
   hindex: 135
