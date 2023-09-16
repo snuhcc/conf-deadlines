@@ -6,7 +6,7 @@
   link: https://chi2024.acm.org/for-authors/papers/
   deadline: "2023-09-14 23:59:59"
   abstract_deadline: "2023-09-07 23:59:59"
-  timezone: AOE
+  timezone: UTC-12
   date: May 11-16, 2024
   place: Honolulu, Hawaii, USA
   sub: HCI
@@ -19,7 +19,7 @@
   link: https://chi2024.acm.org/for-authors/late-breaking-work/
   deadline: "2024-01-25 23:59:59"
   abstract_deadline: "2022-09-21 23:59:59"
-  timezone: AOE
+  timezone: UTC-12
   date: May 11-16, 2024
   place: Honolulu, Hawaii, USA
   sub: HCI
