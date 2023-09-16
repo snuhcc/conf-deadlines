@@ -1,30 +1,29 @@
 ---
-- title: CHI
-  hindex: 113
-  year: 2023
-  id: chi23
-  link: https://chi2023.acm.org
-  deadline: "2022-09-15 23:59:59"
-  timezone: UTC-12
-  date: April 23-28, 2023
-  place: Hamburg, Germany | Hybrid
+- title: CHI Papers
+  hindex:
+  year: 2024
+  id: chi24
+  link: https://chi2024.acm.org/for-authors/papers/
+  deadline: "2023-09-14 23:59:59"
+  abstract_deadline: "2023-09-07 23:59:59"
+  timezone: AOE
+  date: May 11-16, 2024
+  place: Honolulu, Hawaii, USA
   sub: HCI
-  note: "<b>NOTE</b>: reviews are released to authors (November 7, 2022)"
+  note: "<b>NOTE</b>: reviews are released to authors (November 7, 2023)"
 
-- title: ICLR
-  hindex: 150
-  year: 2023
-  id: iclr23
-  link: https://iclr.cc/Conferences/2022/CallForPapers
-  deadline: "2022-09-28 23:59:59"
+- title: CHI LBW
+  hindex:
+  year: 2024
+  id: chi24-lbw
+  link: https://chi2024.acm.org/for-authors/late-breaking-work/
+  deadline: "2024-01-25 23:59:59"
   abstract_deadline: "2022-09-21 23:59:59"
-  timezone: UTC-12
-  date: May 1-5, 2023
-  place: Kigali Convention Center- Rwanda Convention Bureau, Kigali, Rwanda, Africa
-  sub: ML
+  timezone: AOE
+  date: May 11-16, 2024
+  place: Honolulu, Hawaii, USA
+  sub: HCI
   note:
-    "<b>NOTE</b>: Estimated abstract deadline on September 29, 2022. More info
-    <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>."
 
 - title: CSCW
   hindex:
@@ -37,18 +36,6 @@
   place: Minneapolis, MN USA
   sub: HCI
   note: "<b>NOTE</b>: Accepted papers are invited to present at CSCW 2023."
-
-- title: IEEE VIS
-  hindex:
-  year: 2022
-  id: ieeevis22
-  link: http://ieeevis.org/year/2022/welcome
-  deadline: "2022-03-31 17:00:00"
-  abstract_deadline: "2022-03-21 17:00:00"
-  timezone: UTC-12
-  date: October 16-21, 2022
-  place: Oklahoma City, USA
-  sub: HCI
 
 - title: CIKM
   hindex: 48
